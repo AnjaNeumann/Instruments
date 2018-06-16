@@ -39,9 +39,9 @@ public class Main {
 			for (Object data : results) {
 				JSONObject infos = (JSONObject) data;
 				JSONObject props = (JSONObject) infos.get("Properties");
-				String title = props.get("title").toString();
-				String owner = props.get("owner").toString();
-				String date = props.get("eventDate").toString();
+				String title = props.get("title").toString().replace("\n", "").trim();
+				String owner = props.get("owner").toString().replace("\n", "").trim();
+				String date = props.get("eventDate").toString().replace("\n", "").trim();
 				Instrument instrument = new Instrument(title, owner, date);
 				im.addInstrument(instrument);
 				// System.out.println(title + ", " + owner + ", " + date);
