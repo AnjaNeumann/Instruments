@@ -32,8 +32,13 @@ public class Main extends Application implements MapComponentInitializedListener
 	private final ComboBox<String> comboBox = new ComboBox<String>();
 	private static HashMap<String, InstrumentMaker> imMap = new HashMap<>();
 	private static LinkedList<String> options = new LinkedList<String>();
+	static HashMap<String, String[]> locations;
+	private static LinkedList<Marker> marker = new LinkedList<>();
 
 	public static void main(String[] args) throws Exception {
+		CSVReader cr = new CSVReader();
+		cr.readFile("/home/anja/workspace/instruments/Orte.csv");
+		locations = cr.getLocations();
 		LinkedList<InstrumentMaker> makerList = new LinkedList<InstrumentMaker>();
 		JSONReader jr = new JSONReader();
 		for (char letter = 'a'; letter <= 'z'; letter++) {
@@ -107,8 +112,25 @@ public class Main extends Application implements MapComponentInitializedListener
 		// when
 		comboBox.getItems().addAll(options);
 		comboBox.setOnAction((event) -> {
+			for (Marker m : marker) {
+				map.removeMarker(m);
+			}
+			marker = new LinkedList<>();
+			map.setZoom(map.getZoom() + 1);
 			String selectedPerson = comboBox.getSelectionModel().getSelectedItem();
 			System.out.println("ComboBox Action (selected: " + selectedPerson + ")");
+			InstrumentMaker im = imMap.get(selectedPerson);
+			for (Instrument i : im.getInstruments()) {
+				String[] coords = locations.get(i.getOwner());
+				// System.out.println(i.getTitle() + ":\t " + coords[0] + ", " +
+				// coords[1]);
+				MarkerOptions markerOptions = new MarkerOptions();
+				markerOptions.position(new LatLong(Float.parseFloat(coords[0]), Float.parseFloat(coords[1])))
+						.visible(Boolean.TRUE).title(i.getTitle());
+				marker.add(new Marker(markerOptions));
+				map.addMarker(marker.getLast());
+				// add Marker
+			}
 		});
 
 		// ObservableList<String> options =
@@ -142,29 +164,34 @@ public class Main extends Application implements MapComponentInitializedListener
 		MapOptions mapOptions = new MapOptions();
 
 		mapOptions.center(new LatLong(55.953251, -3.188267)).overviewMapControl(false).panControl(false)
-				.rotateControl(false).scaleControl(false).streetViewControl(false).zoomControl(false).zoom(12);
+				.rotateControl(false).scaleControl(false).streetViewControl(false).zoomControl(false).zoom(5);
 
 		map = mapView.createMap(mapOptions);
 
-		// Add a marker to the map
-		MarkerOptions markerOptions = new MarkerOptions();
-		markerOptions.position(new LatLong(55.953251, -3.188267)).visible(Boolean.TRUE)
-				.title("University of Edinburgh");
-		Marker marker = new Marker(markerOptions);
-		map.addMarker(marker);
-
-		// Add a marker to the map
-		MarkerOptions markerOptions2 = new MarkerOptions();
-		markerOptions2.position(new LatLong(51.336918, 12.38785)).visible(Boolean.TRUE)
-				.title("Museum für Musikinstrumente");
-		Marker marker2 = new Marker(markerOptions2);
-		map.addMarker(marker2);
-
-		MarkerOptions markerOptions3 = new MarkerOptions();
-		markerOptions3.position(new LatLong(49.4484222, 11.0751827)).visible(Boolean.TRUE)
-				.title("Germanisches Nationalmuseum");
-		Marker marker3 = new Marker(markerOptions3);
-		map.addMarker(marker3);
+		// // Add a marker to the map
+		// MarkerOptions markerOptions = new MarkerOptions();
+		// markerOptions.position(new LatLong(55.953251,
+		// -3.188267)).visible(Boolean.TRUE)
+		// .title("University of Edinburgh");
+		// Marker marker1 = new Marker(markerOptions);
+		// map.addMarker(marker1);
+		// marker.add(marker1);
+		// // Add a marker to the map
+		// MarkerOptions markerOptions2 = new MarkerOptions();
+		// markerOptions2.position(new LatLong(51.336918,
+		// 12.38785)).visible(Boolean.TRUE)
+		// .title("Museum für Musikinstrumente");
+		// Marker marker2 = new Marker(markerOptions2);
+		// map.addMarker(marker2);
+		// marker.add(marker2);
+		//
+		// MarkerOptions markerOptions3 = new MarkerOptions();
+		// markerOptions3.position(new LatLong(49.4484222,
+		// 11.0751827)).visible(Boolean.TRUE)
+		// .title("Germanisches Nationalmuseum");
+		// Marker marker3 = new Marker(markerOptions3);
+		// map.addMarker(marker3);
+		// marker.add(marker3);
 
 	}
 

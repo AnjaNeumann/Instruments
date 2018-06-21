@@ -73,4 +73,8 @@ public class InstrumentMaker {
 			}
 		}
 	}
+
+	public LinkedList<Instrument> getInstruments() {
+		return instruments;
+	}
 }
