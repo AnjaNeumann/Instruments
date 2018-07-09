@@ -74,7 +74,7 @@ public class Main extends Application implements MapComponentInitializedListener
 				// System.out.println(title + ", " + owner + ", " + date);
 			}
 			// im.write2File("InstrumentData");
-			// im.write2JSONFile("instrumentJSONdata", locations);
+			im.write2JSONFile("instrumentJSONdata", locations);
 			/*
 			 * String option = im.getSurName() + ", " + im.getPreName();
 			 * imMap.put(option, im); options.add(option);
