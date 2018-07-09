@@ -37,16 +37,16 @@ public class Main extends Application implements MapComponentInitializedListener
 
 	public static void main(String[] args) throws Exception {
 		CSVReader cr = new CSVReader();
-		cr.readFile("/home/anja/workspace/instruments/Orte.csv");
+		cr.readFile("Orte.csv");
 		locations = cr.getLocations();
 		LinkedList<InstrumentMaker> makerList = new LinkedList<InstrumentMaker>();
 		JSONReader jr = new JSONReader();
 		for (char letter = 'a'; letter <= 'z'; letter++) {
-			jr.parse("/home/anja/Dokumente/SS18/VTA/CDVo2018MIMUL/Personen/" + letter + ".json");
+			jr.parse("Personen/" + letter + ".json");
 		}
 		makerList = jr.getMakers();
 		//
-		writeHeader("InstrumentData");
+		// writeHeader("InstrumentData");
 
 		for (InstrumentMaker im : makerList) {
 			String ws = im.getWebsite();
@@ -66,21 +66,23 @@ public class Main extends Application implements MapComponentInitializedListener
 			for (Object data : results) {
 				JSONObject infos = (JSONObject) data;
 				JSONObject props = (JSONObject) infos.get("Properties");
-				String title = props.get("title").toString().replace("\n", "").trim();
-				String owner = props.get("owner").toString().replace("\n", "").trim();
-				String date = props.get("eventDate").toString().replace("\n", "").trim();
+				String title = props.get("title").toString().replace("\n", "").replace("\"", "").trim();
+				String owner = props.get("owner").toString().replace("\n", "").replace("\"", "").trim();
+				String date = props.get("eventDate").toString().trim();
 				Instrument instrument = new Instrument(title, owner, date);
 				im.addInstrument(instrument);
 				// System.out.println(title + ", " + owner + ", " + date);
 			}
-			im.write2File("InstrumentData");
-			String option = im.getSurName() + ", " + im.getPreName();
-			imMap.put(option, im);
-			options.add(option);
+			// im.write2File("InstrumentData");
+			// im.write2JSONFile("instrumentJSONdata", locations);
+			/*
+			 * String option = im.getSurName() + ", " + im.getPreName();
+			 * imMap.put(option, im); options.add(option);
+			 */
 
 		}
 		System.out.println("done");
-		launch(args);
+		// launch(args);
 
 	}
 

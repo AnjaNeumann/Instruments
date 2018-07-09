@@ -1,0 +1,2585 @@
+{
+  "y0016": {
+    
+    "defaultSurName": "Yamagishi",
+    "defaultPreName": "Hiroshi",
+    "alternativeSurNames": [
+      "山岸"
+    ],
+    "alternativePreNames": [
+      "博"
+    ],
+    "dates": [
+      "1948",
+      "",
+      "",
+      "",
+      null,
+      null,
+      "1977",
+      "1980"
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Hornist"
+    ],
+    "otherJobs": [],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [
+      "Festival",
+      "Konzert",
+      "Oper",
+      "Orchester",
+      "Theater"
+    ],
+    "places": [
+      "Bayreuth",
+      "Köln"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "ID": "y0016"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Discogs": [
+            {
+              "displayName": "Discogs (1)",
+              "target": [
+                "http://www.discogs.com/artist/2803473"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Bayreuth",
+        "49.94564",
+        "11.571335",
+        "3."
+      ],
+      [
+        "Köln",
+        "50.937531",
+        "6.960279",
+        "3."
+      ]
+    ] },
+  "y0001": {
+    
+    "defaultSurName": "Yalli",
+    "defaultPreName": "August",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "",
+      "",
+      "",
+      "",
+      null,
+      null,
+      "um 1726",
+      ""
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Musiker"
+    ],
+    "otherJobs": [],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [],
+    "places": [
+      "München"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "GND": [
+        "132023695"
+      ],
+      "VIAF": [
+        "50375990"
+      ],
+      "ID": "y0001"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=132023695"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (1)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=132023695"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ]
+    ] },
+  "y0017": {
+    
+    "defaultSurName": "Yatco",
+    "defaultPreName": "Oskar",
+    "alternativeSurNames": [],
+    "alternativePreNames": [
+      "Oscar Clemente Flores"
+    ],
+    "dates": [
+      "1931 Nov 23",
+      "",
+      "2014 Jul 01",
+      "",
+      null,
+      "Hannover",
+      "1947",
+      ""
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Geiger",
+      "Konzertmeister",
+      "Dirigent",
+      "Musikforscher"
+    ],
+    "otherJobs": [
+      "Professor"
+    ],
+    "relation": {
+      "Lehrer": [
+        {
+          "target": "s4019",
+          "displayName": "Stross, Wilhelm"
+        }
+      ]
+    },
+    "historicalJobs": [],
+    "agencies": [
+      "Festival",
+      "Hochschule",
+      "Konzert",
+      "Oper",
+      "Orchester",
+      "Theater"
+    ],
+    "places": [
+      "Bayreuth",
+      "Hannover",
+      "Manila",
+      "Mannheim",
+      "München",
+      "New York",
+      "Philippinen"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "ID": "y0017"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Music Brainz": [
+            {
+              "displayName": "Music Brainz (1)",
+              "target": [
+                "http://musicbrainz.org/artist/930825"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Nachweise/Topographien",
+        {
+          "Wikipedia": [
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://wikidata.org/wiki/Special:GoToLinkedPage?site=dewiki&itemid=Q7106327"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Hannover",
+        "52.375892",
+        "9.73201",
+        "9."
+      ],
+      [
+        "Bayreuth",
+        "49.94564",
+        "11.571335",
+        "3."
+      ],
+      [
+        "Hannover",
+        "52.375892",
+        "9.73201",
+        "3."
+      ],
+      [
+        "Mannheim",
+        "49.487459",
+        "8.466039",
+        "3."
+      ],
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ],
+      [
+        "New York",
+        "40.712775",
+        "-74.00597",
+        "3."
+      ],
+      [
+        "Philippinen",
+        "11.115014",
+        "104.22085",
+        "3."
+      ]
+    ] },
+  "y0014": {
+    
+    "defaultSurName": "Yahia",
+    "defaultPreName": "Mino",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "1929",
+      "",
+      "",
+      "",
+      "Alexandria/Ägypten",
+      null,
+      "1955",
+      ""
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Bassist",
+      "Bariton"
+    ],
+    "otherJobs": [],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [
+      "Oper",
+      "Staat",
+      "Stadt"
+    ],
+    "places": [
+      "Buenos Aires",
+      "Hannover",
+      "Heidelberg",
+      "Kiel",
+      "München",
+      "New York",
+      "Nürnberg",
+      "Salzburg",
+      "Wien"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "VIAF": [
+        "28265287"
+      ],
+      "GND": [
+        "133598616"
+      ],
+      "ID": "y0014"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Internet Movie Database": [
+            {
+              "displayName": "Internet Movie Database (1)",
+              "target": [
+                "http://www.imdb.com/name/nm4090753"
+              ]
+            },
+            {
+              "displayName": "Internet Movie Database (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_imdb/133598616"
+              ]
+            }
+          ],
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=133598616"
+              ]
+            }
+          ],
+          "Operissimo – Interpreten": [
+            {
+              "displayName": "Operissimo – Interpreten (1)",
+              "target": [
+                "http://hosting.operissimo.com/triboni/exec?method=com.operissimo.artist.webDisplay&xsl=webDisplay&id=ffcyoieagxaaaaaaswvq"
+              ]
+            }
+          ],
+          "Wiener Staatsoper": [
+            {
+              "displayName": "Wiener Staatsoper (1)",
+              "target": [
+                "http://db-staatsoper.die-antwort.eu/search/person/3187"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliographien",
+        {
+          "Music Sack": [
+            {
+              "displayName": "Music Sack (1)",
+              "target": [
+                "http://musicsack.com/PersonFMTDetail.cfm?PersonPK=100195990"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Bibliotheksverbund Bayern Berlin Brandenburg": [
+            {
+              "displayName": "Bibliotheksverbund Bayern Berlin Brandenburg (2)",
+              "target": [
+                "http://gateway-bayern.de/opensearch?rfr_id=LinkedOpenData:Beacon&rft_id=info:pnd/133598616"
+              ]
+            }
+          ],
+          "Französische Nationalbibliothek": [
+            {
+              "displayName": "Französische Nationalbibliothek (1)",
+              "target": [
+                "http://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=14000472"
+              ]
+            }
+          ],
+          "Gemeinsamer Bibliotheksverbund": [
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (1)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/PPN=54955632X/REL"
+              ]
+            },
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (1)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/ACT=SRCHA/IKT=8549/TRM=133598616/CMD"
+              ]
+            }
+          ],
+          "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen": [
+            {
+              "displayName": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (1)",
+              "target": [
+                "http://okeanos-www.hbz-nrw.de/F?func=find-a&local_base=HBZ01&find_code=PGI&request=(DE-588)133598616"
+              ]
+            }
+          ],
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (2)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=133598616"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Buenos Aires",
+        "-34.60368",
+        "-58.38155",
+        "3."
+      ],
+      [
+        "Hannover",
+        "52.375892",
+        "9.73201",
+        "3."
+      ],
+      [
+        "Heidelberg",
+        "49.398752",
+        "8.672434",
+        "3."
+      ],
+      [
+        "Kiel",
+        "54.323293",
+        "10.122765",
+        "3."
+      ],
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ],
+      [
+        "New York",
+        "40.712775",
+        "-74.00597",
+        "3."
+      ],
+      [
+        "Nürnberg",
+        "49.452102",
+        "11.076665",
+        "3."
+      ],
+      [
+        "Salzburg",
+        "47.80949",
+        "13.05501",
+        "3."
+      ],
+      [
+        "Wien",
+        "48.208174",
+        "16.373819",
+        "3."
+      ]
+    ] },
+  "y0013": {
+    
+    "defaultSurName": "Yachmi",
+    "defaultPreName": "Rohangiz",
+    "alternativeSurNames": [
+      "Yachmi-Caucig"
+    ],
+    "alternativePreNames": [],
+    "dates": [
+      "1940 Sep 13",
+      "",
+      "",
+      "",
+      "Teheran",
+      null,
+      "1961",
+      "1984 Aug 07"
+    ],
+    "gender": [
+      "weiblich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Mezzosopranistin"
+    ],
+    "otherJobs": [],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [
+      "Oper",
+      "Staat",
+      "Stadt"
+    ],
+    "places": [
+      "Basel",
+      "Berlin",
+      "Bern",
+      "Bielefeld",
+      "Dortmund",
+      "Duisburg",
+      "Düsseldorf",
+      "Essen",
+      "Frankfurt/Main",
+      "Genua",
+      "Köln",
+      "Moskau",
+      "München",
+      "Nürnberg",
+      "Salzburg",
+      "Stuttgart",
+      "Teheran",
+      "Triest",
+      "Wien",
+      "Wiesbaden"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "VIAF": [
+        "12501446"
+      ],
+      "GND": [
+        "13359856X"
+      ],
+      "ID": "y0013"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "All Music Guide": [
+            {
+              "displayName": "All Music Guide (1)",
+              "target": [
+                "http://www.allmusic.com/artist/mn0002193332"
+              ]
+            },
+            {
+              "displayName": "All Music Guide (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_allmusic/13359856X"
+              ]
+            }
+          ],
+          "Discogs": [
+            {
+              "displayName": "Discogs (1)",
+              "target": [
+                "http://www.discogs.com/artist/1294350"
+              ]
+            },
+            {
+              "displayName": "Discogs (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_discogs/13359856X"
+              ]
+            }
+          ],
+          "Internet Movie Database": [
+            {
+              "displayName": "Internet Movie Database (1)",
+              "target": [
+                "http://www.imdb.com/name/nm0944785"
+              ]
+            },
+            {
+              "displayName": "Internet Movie Database (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_imdb/13359856X"
+              ]
+            }
+          ],
+          "Music Brainz": [
+            {
+              "displayName": "Music Brainz (1)",
+              "target": [
+                "http://musicbrainz.org/artist/450892"
+              ]
+            },
+            {
+              "displayName": "Music Brainz (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_musicbrainz/13359856X"
+              ]
+            }
+          ],
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=13359856X"
+              ]
+            }
+          ],
+          "Naxos Classical Music": [
+            {
+              "displayName": "Naxos Classical Music (1)",
+              "target": [
+                "http://www.naxos.com/person/X/2436.htm"
+              ]
+            }
+          ],
+          "Operissimo – Interpreten": [
+            {
+              "displayName": "Operissimo – Interpreten (1)",
+              "target": [
+                "http://hosting.operissimo.com/triboni/exec?method=com.operissimo.artist.webDisplay&xsl=webDisplay&id=ffcyoieagxaaaaabrmrl"
+              ]
+            }
+          ],
+          "Wiener Staatsoper": [
+            {
+              "displayName": "Wiener Staatsoper (1)",
+              "target": [
+                "http://db-staatsoper.die-antwort.eu/search/person/3186"
+              ]
+            }
+          ],
+          "Österreichisches Musiklexikon": [
+            {
+              "displayName": "Österreichisches Musiklexikon (1)",
+              "target": [
+                "http://musiklexikon.ac.at/ml/1,37E+03"
+              ]
+            },
+            {
+              "displayName": "Österreichisches Musiklexikon (1)",
+              "target": [
+                "http://musiklexikon.ac.at/0xc1aa500d_0x1,37E+03"
+              ]
+            },
+            {
+              "displayName": "Österreichisches Musiklexikon (1)",
+              "target": [
+                "http://hw.oeaw.ac.at/cgi-bin/gndresolver?lex=ml&gnd=13359856X"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Bibliotheksverbund Bayern Berlin Brandenburg": [
+            {
+              "displayName": "Bibliotheksverbund Bayern Berlin Brandenburg (9)",
+              "target": [
+                "http://gateway-bayern.de/opensearch?rfr_id=LinkedOpenData:Beacon&rft_id=info:pnd/13359856X"
+              ]
+            }
+          ],
+          "Deutsches Musikarchiv der Deutschen Nationalbibliothek": [
+            {
+              "displayName": "Deutsches Musikarchiv der Deutschen Nationalbibliothek (1)",
+              "target": [
+                "http://dispatch.opac.d-nb.de/DB=2.1/PPN=13359856X/REL"
+              ]
+            }
+          ],
+          "Gemeinsamer Bibliotheksverbund": [
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (4)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/PPN=549556273/REL"
+              ]
+            },
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (4)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/ACT=SRCHA/IKT=8549/TRM=13359856X/CMD"
+              ]
+            }
+          ],
+          "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen": [
+            {
+              "displayName": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (2)",
+              "target": [
+                "http://okeanos-www.hbz-nrw.de/F?func=find-a&local_base=HBZ01&find_code=PGI&request=(DE-588)13359856X"
+              ]
+            }
+          ],
+          "Südwestdeutscher Bibliotheksverbund": [
+            {
+              "displayName": "Südwestdeutscher Bibliotheksverbund (1)",
+              "target": [
+                "http://swb.bsz-bw.de/DB=2.1/PPN=299960765/REL"
+              ]
+            },
+            {
+              "displayName": "Südwestdeutscher Bibliotheksverbund (1)",
+              "target": [
+                "http://swb.bsz-bw.de/DB=2.1/ACT=SRCHA/IKT=2011/REC=2/TRM=13359856X/CMD"
+              ]
+            }
+          ],
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (4)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=13359856X"
+              ]
+            }
+          ],
+          "Österreichischer Bibliothekenverbund": [
+            {
+              "displayName": "Österreichischer Bibliothekenverbund (1)",
+              "target": [
+                "http://search.obvsg.at/primo_library/libweb/action/dlSearch.do?vid=ACC&institution=ACC&onCampus=false&lang=ger&loc=local,scope:(ACC_aleph)&query=any,contains,(DE-588)13359856X"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Basel",
+        "47.559599",
+        "7.588576",
+        "3."
+      ],
+      [
+        "Berlin",
+        "52.520007",
+        "13.404954",
+        "3."
+      ],
+      [
+        "Bern",
+        "46.947974",
+        "7.447447",
+        "3."
+      ],
+      [
+        "Bielefeld",
+        "52.030229",
+        "8.532471",
+        "3."
+      ],
+      [
+        "Dortmund",
+        "51.513587",
+        "7.465298",
+        "3."
+      ],
+      [
+        "Duisburg",
+        "51.434408",
+        "6.762329",
+        "3."
+      ],
+      [
+        "Düsseldorf",
+        "51.227741",
+        "6.773456",
+        "3."
+      ],
+      [
+        "Essen",
+        "51.455643",
+        "7.011555",
+        "3."
+      ],
+      [
+        "Frankfurt/Main",
+        "50.110922",
+        "8.682127",
+        "3."
+      ],
+      [
+        "Genua",
+        "44.40565",
+        "8.946256",
+        "3."
+      ],
+      [
+        "Köln",
+        "50.937531",
+        "6.960279",
+        "3."
+      ],
+      [
+        "Moskau",
+        "55.755826",
+        "37.6173",
+        "3."
+      ],
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ],
+      [
+        "Nürnberg",
+        "49.452102",
+        "11.076665",
+        "3."
+      ],
+      [
+        "Salzburg",
+        "47.80949",
+        "13.05501",
+        "3."
+      ],
+      [
+        "Stuttgart",
+        "48.775846",
+        "9.182932",
+        "3."
+      ],
+      [
+        "Triest",
+        "45.649526",
+        "13.776818",
+        "3."
+      ],
+      [
+        "Wien",
+        "48.208174",
+        "16.373819",
+        "3."
+      ],
+      [
+        "Wiesbaden",
+        "50.078218",
+        "8.239761",
+        "3."
+      ]
+    ] },
+  "y0002": {
+    
+    "defaultSurName": "Ybler",
+    "defaultPreName": "Georg",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "",
+      "",
+      "",
+      "",
+      null,
+      null,
+      "1612",
+      ""
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Geiger"
+    ],
+    "otherJobs": [],
+    "relation": [],
+    "historicalJobs": [
+      "Geiger"
+    ],
+    "agencies": [],
+    "places": [
+      "München"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "GND": [
+        "132023717"
+      ],
+      "VIAF": [
+        "67616013"
+      ],
+      "ID": "y0002"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=132023717"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (1)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=132023717"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ]
+    ] },
+  "y0005": {
+    
+    "defaultSurName": "Young",
+    "defaultPreName": "Johann Eduard",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "",
+      "",
+      "",
+      "",
+      null,
+      null,
+      "vor 1824 Dez 14",
+      ""
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Sänger"
+    ],
+    "otherJobs": [],
+    "relation": {
+      "Kinder": [
+        {
+          "target": "y0004",
+          "displayName": "Young, Friedrich"
+        }
+      ]
+    },
+    "historicalJobs": [
+      "Opernsänger"
+    ],
+    "agencies": [
+      "Hof",
+      "Oper"
+    ],
+    "places": [
+      "Budapest"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "GND": [
+        "132023733"
+      ],
+      "VIAF": [
+        "13458765"
+      ],
+      "ID": "y0005"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=132023733"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (1)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=132023733"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Budapest",
+        "47.497912",
+        "19.040235",
+        "3."
+      ]
+    ] },
+  "y0015": {
+    
+    "defaultSurName": "Yoes",
+    "defaultPreName": "Janice",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "1948",
+      "",
+      "",
+      "",
+      "Fayetteville/Arkansas",
+      null,
+      "1973",
+      ""
+    ],
+    "gender": [
+      "weiblich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Sopranistin",
+      "Gesangslehrerin"
+    ],
+    "otherJobs": [],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [
+      "Hochschule",
+      "Oper",
+      "Staat",
+      "Stadt"
+    ],
+    "places": [
+      "Arkansas",
+      "Augsburg",
+      "Basel",
+      "Berlin",
+      "Braunschweig",
+      "Bregenz",
+      "Graz",
+      "Karlsruhe",
+      "Lissabon",
+      "Madrid",
+      "Marseille",
+      "Neapel",
+      "New York",
+      "Nürnberg",
+      "Pretoria",
+      "Saarbrücken",
+      "Santiago de Chile",
+      "Seattle",
+      "Stuttgart",
+      "Triest",
+      "Wien"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "GND": [
+        "133598675"
+      ],
+      "VIAF": [
+        "65200706"
+      ],
+      "ID": "y0015"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=133598675"
+              ]
+            }
+          ],
+          "Operissimo – Interpreten": [
+            {
+              "displayName": "Operissimo – Interpreten (1)",
+              "target": [
+                "http://hosting.operissimo.com/triboni/exec?method=com.operissimo.artist.webDisplay&xsl=webDisplay&id=ffcyoieagxaaaaabbwuf"
+              ]
+            }
+          ],
+          "Wiener Staatsoper": [
+            {
+              "displayName": "Wiener Staatsoper (1)",
+              "target": [
+                "http://db-staatsoper.die-antwort.eu/search/person/3193"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliographien",
+        {
+          "Music Sack": [
+            {
+              "displayName": "Music Sack (1)",
+              "target": [
+                "http://musicsack.com/PersonFMTDetail.cfm?PersonPK=100195993"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (1)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=133598675"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Augsburg",
+        "48.370545",
+        "10.89779",
+        "3."
+      ],
+      [
+        "Basel",
+        "47.559599",
+        "7.588576",
+        "3."
+      ],
+      [
+        "Berlin",
+        "52.520007",
+        "13.404954",
+        "3."
+      ],
+      [
+        "Braunschweig",
+        "52.268874",
+        "10.52677",
+        "3."
+      ],
+      [
+        "Bregenz",
+        "47.50075",
+        "9.74231",
+        "3."
+      ],
+      [
+        "Graz",
+        "47.070714",
+        "15.439504",
+        "3."
+      ],
+      [
+        "Karlsruhe",
+        "49.00689",
+        "8.403653",
+        "3."
+      ],
+      [
+        "Lissabon",
+        "38.743605",
+        "-9.230243",
+        "3."
+      ],
+      [
+        "Madrid",
+        "40.416775",
+        "-3.70379",
+        "3."
+      ],
+      [
+        "Marseille",
+        "43.296482",
+        "5.36978",
+        "3."
+      ],
+      [
+        "Neapel",
+        "40.851775",
+        "14.268124",
+        "3."
+      ],
+      [
+        "New York",
+        "40.712775",
+        "-74.00597",
+        "3."
+      ],
+      [
+        "Nürnberg",
+        "49.452102",
+        "11.076665",
+        "3."
+      ],
+      [
+        "Saarbrücken",
+        "49.240157",
+        "6.996933",
+        "3."
+      ],
+      [
+        "Stuttgart",
+        "48.775846",
+        "9.182932",
+        "3."
+      ],
+      [
+        "Triest",
+        "45.649526",
+        "13.776818",
+        "3."
+      ],
+      [
+        "Wien",
+        "48.208174",
+        "16.373819",
+        "3."
+      ]
+    ] },
+  "y0012": {
+    
+    "defaultSurName": "Ysebrant",
+    "defaultPreName": null,
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "",
+      "",
+      "",
+      "",
+      null,
+      null,
+      "1417",
+      "1425"
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [
+      "römisch-katholisch"
+    ],
+    "musicalJobs": [],
+    "otherJobs": [
+      "Geistlicher"
+    ],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [],
+    "places": [
+      "Straubing"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "ID": "y0012"
+    },
+    "image": [],
+    
+    "links": null,
+    "mapPlaces": [
+      [
+        "Straubing",
+        "48.877733",
+        "12.580154",
+        "3."
+      ]
+    ] },
+  "y0004": {
+    
+    "defaultSurName": "Young",
+    "defaultPreName": "Friedrich",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "nach 1824 Dez 14",
+      "",
+      "vor 1884 Feb 18",
+      "",
+      "Budapest",
+      "Kennenberg/Esslingen",
+      "1843",
+      "1870"
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Tenor"
+    ],
+    "otherJobs": [],
+    "relation": {
+      "Eltern": [
+        {
+          "target": "y0005",
+          "displayName": "Young, Johann Eduard"
+        }
+      ],
+      "Partner": [
+        {
+          "target": "g0548",
+          "displayName": "Grahn, Lucile"
+        }
+      ]
+    },
+    "historicalJobs": [
+      "Hofopernsänger"
+    ],
+    "agencies": [
+      "Hof",
+      "Oper"
+    ],
+    "places": [
+      "Breslau",
+      "Budapest",
+      "Frankfurt/Main",
+      "Hamburg",
+      "Kopenhagen",
+      "Linz",
+      "London",
+      "Mailand",
+      "Paris",
+      "Riga",
+      "Schwerin",
+      "Wien"
+    ],
+    "guestPlaces": [],
+    "mainPlace": "München",
+    "ids": {
+      "GND": [
+        "116945761"
+      ],
+      "VIAF": [
+        "32761159"
+      ],
+      "ID": "y0004"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Allgemeine Deutsche Biographie": [
+            {
+              "displayName": "Allgemeine Deutsche Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/sfz22811.html#adbcontent"
+              ]
+            },
+            {
+              "displayName": "Allgemeine Deutsche Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/gnd116945761.html#adbcontent"
+              ]
+            }
+          ],
+          "Biographisches Lexikon des Kaiserthums Österreich (1856–1891) von Constant Ritter von Wurzbach": [
+            {
+              "displayName": "Biographisches Lexikon des Kaiserthums Österreich (1856–1891) von Constant Ritter von Wurzbach (1)",
+              "target": [
+                "http://tools.wmflabs.org/persondata/redirect/gnd/ws-blkoe/116945761"
+              ]
+            }
+          ],
+          "Magyar Színházművészeti Lexikon": [
+            {
+              "displayName": "Magyar Színházművészeti Lexikon (1)",
+              "target": [
+                "http://mek.oszk.hu/02100/02139/html/sz30. Mrz.html"
+              ]
+            }
+          ],
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=116945761"
+              ]
+            }
+          ],
+          "Operissimo – Interpreten": [
+            {
+              "displayName": "Operissimo – Interpreten (1)",
+              "target": [
+                "http://hosting.operissimo.com/triboni/exec?method=com.operissimo.artist.webDisplay&xsl=webDisplay&id=ffcyoieagxaaaaabbwsd"
+              ]
+            }
+          ],
+          "Register zur Deutschen Biographie": [
+            {
+              "displayName": "Register zur Deutschen Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/sfz22811.html#indexcontent"
+              ]
+            },
+            {
+              "displayName": "Register zur Deutschen Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/gnd116945761.html#indexcontent"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Archive, Museen, Sammlungen, Nachlässe",
+        {
+          "Kalliope Verbundkatalog für Nachlässe und Autographen": [
+            {
+              "displayName": "Kalliope Verbundkatalog für Nachlässe und Autographen (1)",
+              "target": [
+                "http://kalliope.staatsbibliothek-berlin.de/de/query?q=ead.authfilenumber%3D116945761"
+              ]
+            },
+            {
+              "displayName": "Kalliope Verbundkatalog für Nachlässe und Autographen (1)",
+              "target": [
+                "http://kalliope.staatsbibliothek-berlin.de/de/query?q=ead.authfilenumber%3D95286"
+              ]
+            }
+          ],
+          "Münchner Stadtmuseum – Porträtsammlung": [
+            {
+              "displayName": "Münchner Stadtmuseum – Porträtsammlung (1)",
+              "target": [
+                "http://stadtmuseum.bayerische-landesbibliothek-online.de/pnd/116945761"
+              ]
+            }
+          ],
+          "Sächsische Landesbibliothek – Handschriften": [
+            {
+              "displayName": "Sächsische Landesbibliothek – Handschriften (1)",
+              "target": [
+                "http://hansopac.slub-dresden.de/cgi-bin/slub.pl?t_idn=pg11694576"
+              ]
+            },
+            {
+              "displayName": "Sächsische Landesbibliothek – Handschriften (1)",
+              "target": [
+                "http://hansopac.slub-dresden.de/cgi-bin/slub.pl?t_idn=pnd:116945761"
+              ]
+            },
+            {
+              "displayName": "Sächsische Landesbibliothek – Handschriften (1)",
+              "target": [
+                "http://hansopac.slub-dresden.de/cgi-bin/slub.pl?t_idn=zka:95286"
+              ]
+            }
+          ],
+          "Zentraler Personennachweis Nachlassdatenbanken": [
+            {
+              "displayName": "Zentraler Personennachweis Nachlassdatenbanken (1)",
+              "target": [
+                "http://beacon.findbuch.de/seealso/hanszentral?format=sources&id=116945761"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Hessischer Bibliotheksverbund": [
+            {
+              "displayName": "Hessischer Bibliotheksverbund (1)",
+              "target": [
+                "http://orsprod.rz.uni-frankfurt.de/DB=2.1/PPN=150812442/REL"
+              ]
+            },
+            {
+              "displayName": "Hessischer Bibliotheksverbund (1)",
+              "target": [
+                "http://resolver.hebis.de/wikimedia/pndresolver/116945761"
+              ]
+            }
+          ],
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (1)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=116945761"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3.1."
+      ],
+      [
+        "Breslau",
+        "51.107885",
+        "17.038538",
+        "3."
+      ],
+      [
+        "Budapest",
+        "47.497912",
+        "19.040235",
+        "3."
+      ],
+      [
+        "Frankfurt/Main",
+        "50.110922",
+        "8.682127",
+        "3."
+      ],
+      [
+        "Hamburg",
+        "53.551085",
+        "9.993682",
+        "3."
+      ],
+      [
+        "Kopenhagen",
+        "55.676097",
+        "12.568337",
+        "3."
+      ],
+      [
+        "Linz",
+        "48.30694",
+        "14.28583",
+        "3."
+      ],
+      [
+        "London",
+        "51.507351",
+        "-0.127758",
+        "3."
+      ],
+      [
+        "Mailand",
+        "45.464204",
+        "9.189982",
+        "3."
+      ],
+      [
+        "Paris",
+        "48.856614",
+        "2.352222",
+        "3."
+      ],
+      [
+        "Riga",
+        "56.949649",
+        "24.105186",
+        "3."
+      ],
+      [
+        "Schwerin",
+        "53.635502",
+        "11.40125",
+        "3."
+      ],
+      [
+        "Wien",
+        "48.208174",
+        "16.373819",
+        "3."
+      ],
+      [
+        "Budapest",
+        "47.497912",
+        "19.040235",
+        "1."
+      ]
+    ] },
+  "y0011": {
+    
+    "defaultSurName": "Yrsch",
+    "defaultPreName": "Eduard von",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "1797 Jul 08",
+      "",
+      "1862 Mar 09",
+      "",
+      "München",
+      "München",
+      "1841",
+      "1843"
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [],
+    "otherJobs": [
+      "Intendant"
+    ],
+    "relation": [],
+    "historicalJobs": [
+      "Kurfürstlicher Kämmerer",
+      "Marschall",
+      "Reichsrath",
+      "Hofmarschall"
+    ],
+    "agencies": [],
+    "places": [
+      "München"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "GND": [
+        "116946350"
+      ],
+      "VIAF": [
+        "49990194"
+      ],
+      "ID": "y0011"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Abgeordnete des Bayerischen Parlaments": [
+            {
+              "displayName": "Abgeordnete des Bayerischen Parlaments (1)",
+              "target": [
+                "http://www.hdbg.de/parlament/content/persDetail.php?gnd=116946350"
+              ]
+            }
+          ],
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=116946350"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Archive, Museen, Sammlungen, Nachlässe",
+        {
+          "Kalliope Verbundkatalog für Nachlässe und Autographen": [
+            {
+              "displayName": "Kalliope Verbundkatalog für Nachlässe und Autographen (1)",
+              "target": [
+                "http://kalliope.staatsbibliothek-berlin.de/de/query?q=ead.authfilenumber%3D116946350"
+              ]
+            },
+            {
+              "displayName": "Kalliope Verbundkatalog für Nachlässe und Autographen (1)",
+              "target": [
+                "http://kalliope.staatsbibliothek-berlin.de/de/query?q=ead.authfilenumber%3D95345"
+              ]
+            }
+          ],
+          "Münchner Stadtmuseum – Porträtsammlung": [
+            {
+              "displayName": "Münchner Stadtmuseum – Porträtsammlung (1)",
+              "target": [
+                "http://stadtmuseum.bayerische-landesbibliothek-online.de/pnd/116946350"
+              ]
+            }
+          ],
+          "Regestausgabe der Briefe an Johann Wolfgang von Goethe": [
+            {
+              "displayName": "Regestausgabe der Briefe an Johann Wolfgang von Goethe (1)",
+              "target": [
+                "http://ora-web.swkk.de/goe_reg_online/regest.vollanzeige_bio?p_lfdnr=0&id=42841"
+              ]
+            },
+            {
+              "displayName": "Regestausgabe der Briefe an Johann Wolfgang von Goethe (1)",
+              "target": [
+                "http://www.historische-kommission-muenchen-editionen.de/beacond/goetheregg.php?pnd=116946350"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (1)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=116946350"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Nachweise/Topographien",
+        {
+          "Wikipedia": [
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Eduard_von_Yrsch"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Eduard_von_Yrsch"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://wikidata.org/wiki/Special:GoToLinkedPage?site=dewiki&itemid=Q15438172"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/persondata/redirect/gnd/de/116946350"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/wikidata-todo/resolver.php?project=dewiki&quick=GND%3A116946350"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "9."
+      ],
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ],
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "1."
+      ]
+    ] },
+  "y0021": {
+    
+    "defaultSurName": "Yusupov",
+    "defaultPreName": "Nikolay Borisovich",
+    "alternativeSurNames": [
+      "Youssupoff",
+      "Yoessoepov",
+      "Youssoupov",
+      "Jusupov",
+      "Iusupov",
+      "Jusupov-mladsij",
+      "Youssoupow"
+    ],
+    "alternativePreNames": [
+      "Nicolaus",
+      "Nikolaj Borisovič",
+      "Nikolaĭ Borisovich"
+    ],
+    "dates": [
+      "1827",
+      "",
+      "1891",
+      "",
+      "St. Petersburg",
+      "Baden-Baden",
+      "1856",
+      ""
+    ],
+    "gender": [],
+    "konfession": [],
+    "musicalJobs": [
+      "Komponist",
+      "Musikforscher"
+    ],
+    "otherJobs": [
+      "Adliger"
+    ],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [
+      "Adel",
+      "Hof"
+    ],
+    "places": [
+      "München"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "ID": "y0021"
+    },
+    "image": [],
+    
+    "links": [
+      [
+        "Bibliographien",
+        {
+          "Music Sack": [
+            {
+              "displayName": "Music Sack (1)",
+              "target": [
+                "http://musicsack.com/PersonFMTDetail.cfm?PersonPK=100031633"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Baden-Baden",
+        "48.76564",
+        "8.228524",
+        "9."
+      ],
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ],
+      [
+        "St. Petersburg",
+        "59.93428",
+        "30.335099",
+        "1."
+      ]
+    ] },
+  "y0020": {
+    
+    "defaultSurName": "Yauch",
+    "defaultPreName": "Adam Nathaniel",
+    "alternativeSurNames": [
+      "Hörnblowér"
+    ],
+    "alternativePreNames": [
+      "Nathaniel"
+    ],
+    "dates": [
+      "1964 Aug 05",
+      "",
+      "2012 Mai 04",
+      "",
+      "New York",
+      "New York",
+      "1979",
+      ""
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Sänger",
+      "Gitarrist",
+      "Medienvertreter"
+    ],
+    "otherJobs": [
+      "Regisseur"
+    ],
+    "relation": [],
+    "historicalJobs": [
+      "Musikproduzent",
+      "Bassgitarrist"
+    ],
+    "agencies": [
+      "Ensemble",
+      "Konzert",
+      "Label",
+      "Rock/Pop",
+      "Rundfunk/Fernsehen"
+    ],
+    "places": [
+      "München",
+      "San Francisco"
+    ],
+    "guestPlaces": [],
+    "mainPlace": "New York",
+    "ids": {
+      "VIAF": [
+        "44530475",
+        "281236814",
+        "250340242"
+      ],
+      "GND": [
+        "1026319153"
+      ],
+      "ID": "y0020"
+    },
+    "image": {
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Adam_Yauch_2.jpg",
+      "Link": "http://commons.wikimedia.org/wiki/File:Adam_Yauch_2.jpg",
+      "Credits": "Wikimedia Commons"
+    },
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "All Music Guide": [
+            {
+              "displayName": "All Music Guide (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_allmusic/1026319153"
+              ]
+            }
+          ],
+          "Discogs": [
+            {
+              "displayName": "Discogs (2)",
+              "target": [
+                "http://www.discogs.com/artist/413559"
+              ]
+            },
+            {
+              "displayName": "Discogs (2)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_discogs/1026319153"
+              ]
+            }
+          ],
+          "Encyclopaedia Britannica": [
+            {
+              "displayName": "Encyclopaedia Britannica (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_eb/1026319153"
+              ]
+            }
+          ],
+          "Internet Movie Database": [
+            {
+              "displayName": "Internet Movie Database (2)",
+              "target": [
+                "http://www.imdb.com/name/nm0946888"
+              ]
+            },
+            {
+              "displayName": "Internet Movie Database (2)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_imdb/1026319153"
+              ]
+            }
+          ],
+          "Music Brainz": [
+            {
+              "displayName": "Music Brainz (1)",
+              "target": [
+                "http://musicbrainz.org/artist/114461"
+              ]
+            },
+            {
+              "displayName": "Music Brainz (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_musicbrainz/1026319153"
+              ]
+            }
+          ],
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=1026319153"
+              ]
+            }
+          ],
+          "Wikimedia Commons": [
+            {
+              "displayName": "Wikimedia Commons (1)",
+              "target": [
+                "http://commons.wikimedia.org/wiki/Category:Adam_Yauch"
+              ]
+            },
+            {
+              "displayName": "Wikimedia Commons (1)",
+              "target": [
+                "http://tools.wmflabs.org/persondata/redirect/gnd/commons/1026319153"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliographien",
+        {
+          "Music Sack": [
+            {
+              "displayName": "Music Sack (1)",
+              "target": [
+                "http://musicsack.com/PersonFMTDetail.cfm?PersonPK=100146142"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Bibliotheksverbund Bayern Berlin Brandenburg": [
+            {
+              "displayName": "Bibliotheksverbund Bayern Berlin Brandenburg (13)",
+              "target": [
+                "http://gateway-bayern.de/opensearch?rfr_id=LinkedOpenData:Beacon&rft_id=info:pnd/1026319153"
+              ]
+            }
+          ],
+          "Französische Nationalbibliothek": [
+            {
+              "displayName": "Französische Nationalbibliothek (1)",
+              "target": [
+                "http://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=14499104"
+              ]
+            }
+          ],
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (1)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=1026319153"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Nachweise/Topographien",
+        {
+          "Wikipedia": [
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Adam_Yauch"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Adam_Yauch"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://wikidata.org/wiki/Special:GoToLinkedPage?site=dewiki&itemid=Q344784"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/persondata/redirect/gnd/de/1026319153"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/wikidata-todo/resolver.php?project=dewiki&quick=GND%3A1026319153"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "New York",
+        "40.712775",
+        "-74.00597",
+        "9."
+      ],
+      [
+        "New York",
+        "40.712775",
+        "-74.00597",
+        "3.1."
+      ],
+      [
+        "München",
+        "48.135125",
+        "11.58198",
+        "3."
+      ],
+      [
+        "San Francisco",
+        "37.77493",
+        "-122.4194",
+        "3."
+      ],
+      [
+        "New York",
+        "40.712775",
+        "-74.00597",
+        "1."
+      ]
+    ] },
+  "y0019": {
+    
+    "defaultSurName": "Young",
+    "defaultPreName": "Simone",
+    "alternativeSurNames": [],
+    "alternativePreNames": [],
+    "dates": [
+      "1961 Mar 02",
+      "",
+      "",
+      "",
+      "Sydney",
+      null,
+      "vor 1985",
+      ""
+    ],
+    "gender": [
+      "weiblich"
+    ],
+    "konfession": [],
+    "musicalJobs": [
+      "Dirigentin",
+      "Komponistin",
+      "Kapellmeisterin",
+      "Pianistin"
+    ],
+    "otherJobs": [
+      "Intendantin"
+    ],
+    "relation": {
+      "Lehrer": [
+        {
+          "target": "b2103",
+          "displayName": "Barenboim, Daniel"
+        }
+      ]
+    },
+    "historicalJobs": [
+      "Chefdirigentin",
+      "Konzertdirigentin",
+      "Generalmusikdirektorin"
+    ],
+    "agencies": [
+      "Konzert",
+      "Oper",
+      "Orchester",
+      "Theater"
+    ],
+    "places": [
+      "Bayreuth",
+      "Bergen",
+      "Berlin",
+      "Hamburg",
+      "Köln",
+      "Melbourne",
+      "Paris",
+      "Sydney",
+      "USA",
+      "Wien"
+    ],
+    "guestPlaces": [],
+    "mainPlace": null,
+    "ids": {
+      "VIAF": [
+        "218514025",
+        "67579222"
+      ],
+      "GND": [
+        "13061968X"
+      ],
+      "ID": "y0019"
+    },
+    "image": {
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Simone_Young_2010_-_Portrait_by_Bertold_Fabricius.jpg",
+      "Link": "http://commons.wikimedia.org/wiki/File:Simone_Young_2010_-_Portrait_by_Bertold_Fabricius.jpg",
+      "Credits": "Wikimedia Commons"
+    },
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Australian Women's Register": [
+            {
+              "displayName": "Australian Women's Register (1)",
+              "target": [
+                "http://womenaustralia.info/biogs/AWE0316b.htm"
+              ]
+            }
+          ],
+          "Internationales Biographisches Archiv": [
+            {
+              "displayName": "Internationales Biographisches Archiv (1)",
+              "target": [
+                "http://munzinger.de/document/23339"
+              ]
+            }
+          ],
+          "Klassik Heute": [
+            {
+              "displayName": "Klassik Heute (1)",
+              "target": [
+                "http://www.klassik-heute.de/kh/6kuenstler/bio_i_15561.shtml"
+              ]
+            }
+          ],
+          "Music Brainz": [
+            {
+              "displayName": "Music Brainz (1)",
+              "target": [
+                "http://musicbrainz.org/artist/862250"
+              ]
+            },
+            {
+              "displayName": "Music Brainz (1)",
+              "target": [
+                "http://beacon.findbuch.de/gnd-resolver/pw_musicbrainz/13061968X"
+              ]
+            }
+          ],
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=13061968X"
+              ]
+            }
+          ],
+          "Wikimedia Commons": [
+            {
+              "displayName": "Wikimedia Commons (1)",
+              "target": [
+                "http://commons.wikimedia.org/wiki?curid=12896414"
+              ]
+            },
+            {
+              "displayName": "Wikimedia Commons (1)",
+              "target": [
+                "http://commons.wikimedia.org/wiki/Category:Simone_Young"
+              ]
+            },
+            {
+              "displayName": "Wikimedia Commons (1)",
+              "target": [
+                "http://tools.wmflabs.org/persondata/redirect/gnd/commons/13061968X"
+              ]
+            }
+          ],
+          "Österreichisches Musiklexikon": [
+            {
+              "displayName": "Österreichisches Musiklexikon (1)",
+              "target": [
+                "http://musiklexikon.ac.at/ml/1,37E+04"
+              ]
+            },
+            {
+              "displayName": "Österreichisches Musiklexikon (1)",
+              "target": [
+                "http://musiklexikon.ac.at/0xc1aa500d_0x1,37E+04"
+              ]
+            },
+            {
+              "displayName": "Österreichisches Musiklexikon (1)",
+              "target": [
+                "http://hw.oeaw.ac.at/cgi-bin/gndresolver?lex=ml&gnd=13061968X"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliographien",
+        {
+          "Bibliographie des Musikschrifttums Online": [
+            {
+              "displayName": "Bibliographie des Musikschrifttums Online (2)",
+              "target": [
+                "http://www.musikbibliographie.de/PPN=2334496/REL"
+              ]
+            },
+            {
+              "displayName": "Bibliographie des Musikschrifttums Online (2)",
+              "target": [
+                "http://www.musikbibliographie.de/ACT=SRCHA/IKT=8549/TRM=13061968X/CMD"
+              ]
+            }
+          ],
+          "Jahresberichte für deutsche Geschichte": [
+            {
+              "displayName": "Jahresberichte für deutsche Geschichte (1)",
+              "target": [
+                "http://jdgdb.bbaw.de/cgi-bin/jdg?t_idn=gnd:13061968X"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Bayerische Staatsbibliothek": [
+            {
+              "displayName": "Bayerische Staatsbibliothek (13)",
+              "target": [
+                "http://opacplus.bsb-muenchen.de/search?View=bsb&pnd=13061968X"
+              ]
+            }
+          ],
+          "Bibliotheksverbund Bayern Berlin Brandenburg": [
+            {
+              "displayName": "Bibliotheksverbund Bayern Berlin Brandenburg (23)",
+              "target": [
+                "http://gateway-bayern.de/opensearch?rfr_id=LinkedOpenData:Beacon&rft_id=info:pnd/13061968X"
+              ]
+            }
+          ],
+          "Deutsche Digitale Bibliothek": [
+            {
+              "displayName": "Deutsche Digitale Bibliothek (1)",
+              "target": [
+                "http://www.ddb.de/entity/13061968X"
+              ]
+            }
+          ],
+          "Deutsche Nationalbibliothek": [
+            {
+              "displayName": "Deutsche Nationalbibliothek (1)",
+              "target": [
+                "http://dispatch.opac.d-nb.de/DB=4.1/PPN=13061968X/REL"
+              ]
+            }
+          ],
+          "Deutsches Musikarchiv der Deutschen Nationalbibliothek": [
+            {
+              "displayName": "Deutsches Musikarchiv der Deutschen Nationalbibliothek (5)",
+              "target": [
+                "http://dispatch.opac.d-nb.de/DB=2.1/PPN=13061968X/REL"
+              ]
+            }
+          ],
+          "Französische Nationalbibliothek": [
+            {
+              "displayName": "Französische Nationalbibliothek (1)",
+              "target": [
+                "http://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=16182466"
+              ]
+            }
+          ],
+          "Gemeinsamer Bibliotheksverbund": [
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (25)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/PPN=504647091/REL"
+              ]
+            },
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (25)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/ACT=SRCHA/IKT=8549/TRM=13061968X/CMD"
+              ]
+            }
+          ],
+          "Hessischer Bibliotheksverbund": [
+            {
+              "displayName": "Hessischer Bibliotheksverbund (9)",
+              "target": [
+                "http://orsprod.rz.uni-frankfurt.de/DB=2.1/PPN=134717732/REL"
+              ]
+            },
+            {
+              "displayName": "Hessischer Bibliotheksverbund (9)",
+              "target": [
+                "http://resolver.hebis.de/wikimedia/pndresolver/13061968X"
+              ]
+            }
+          ],
+          "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen": [
+            {
+              "displayName": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (18)",
+              "target": [
+                "http://okeanos-www.hbz-nrw.de/F?func=find-a&local_base=HBZ01&find_code=PGI&request=(DE-588)13061968X"
+              ]
+            }
+          ],
+          "National Library of Australia": [
+            {
+              "displayName": "National Library of Australia (2)",
+              "target": [
+                "http://trove.nla.gov.au/people/783895"
+              ]
+            }
+          ],
+          "Südwestdeutscher Bibliotheksverbund": [
+            {
+              "displayName": "Südwestdeutscher Bibliotheksverbund (7)",
+              "target": [
+                "http://swb.bsz-bw.de/DB=2.1/PPN=257327185/REL"
+              ]
+            },
+            {
+              "displayName": "Südwestdeutscher Bibliotheksverbund (7)",
+              "target": [
+                "http://swb.bsz-bw.de/DB=2.1/ACT=SRCHA/IKT=2011/REC=2/TRM=13061968X/CMD"
+              ]
+            }
+          ],
+          "Universitätsbibliothek Heidelberg": [
+            {
+              "displayName": "Universitätsbibliothek Heidelberg (1)",
+              "target": [
+                "http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?query=AU:13061968X"
+              ]
+            }
+          ],
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (26)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=13061968X"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Nachweise/Topographien",
+        {
+          "Wikipedia": [
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Simone_Young"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Simone_Young"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://wikidata.org/wiki/Special:GoToLinkedPage?site=dewiki&itemid=Q273672"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/persondata/redirect/gnd/de/13061968X"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/wikidata-todo/resolver.php?project=dewiki&quick=GND%3A13061968X"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Bayreuth",
+        "49.94564",
+        "11.571335",
+        "3."
+      ],
+      [
+        "Berlin",
+        "52.520007",
+        "13.404954",
+        "3."
+      ],
+      [
+        "Hamburg",
+        "53.551085",
+        "9.993682",
+        "3."
+      ],
+      [
+        "Köln",
+        "50.937531",
+        "6.960279",
+        "3."
+      ],
+      [
+        "Paris",
+        "48.856614",
+        "2.352222",
+        "3."
+      ],
+      [
+        "USA",
+        "37.09024",
+        "-95.71289",
+        "3."
+      ],
+      [
+        "Wien",
+        "48.208174",
+        "16.373819",
+        "3."
+      ]
+    ] }
+}

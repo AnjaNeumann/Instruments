@@ -3,6 +3,7 @@ package Extractor;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.HashMap;
 import java.util.LinkedList;
 
 public class InstrumentMaker {
@@ -59,6 +60,37 @@ public class InstrumentMaker {
 			for (Instrument instrument : instruments) {
 				String towrite = surName + "\t " + preName + "\t " + instrument.getTitle() + "\t "
 						+ instrument.getOwner() + "\t " + instrument.getDate() + "\n";
+				bw.write(towrite);
+			}
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (bw != null) bw.close();
+				if (fw != null) fw.close();
+			} catch (IOException ex) {
+				ex.printStackTrace();
+			}
+		}
+	}
+
+	public void write2JSONFile(String filename, HashMap<String, String[]> locations) {
+		BufferedWriter bw = null;
+		FileWriter fw = null;
+		try {
+			fw = new FileWriter(filename, true);
+			bw = new BufferedWriter(fw);
+
+			for (Instrument instrument : instruments) {
+				String[] coords = locations.get(instrument.getOwner());
+				String towrite = "{\"name\":\"" + instrument.getTitle() + "\", \"place\":\"" + instrument.getOwner()
+						+ "\", \"time\":\"" + instrument.getDate() + "\", \"lon\":" + coords[1] + ", \"lat\":"
+						+ coords[0] + ", \"description\":\"description\"," + "\"tableContent\":{\"surname\":\""
+						+ surName + "\", \"prename\":\"" + preName + "\", \"title\":\"" + instrument.getTitle()
+						+ "\", \"place\":\"" + instrument.getOwner() + "\", \"time\":\"" + instrument.getDate()
+						+ "\"}},\n";
+
 				bw.write(towrite);
 			}
 

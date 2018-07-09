@@ -4,13 +4,13 @@ import java.util.Objects;
 
 public class Instrument {
 	private String title;
-	private String date;
+	private Date date;
 	private String owner;
 
 	public Instrument(String title, String owner, String eventDate) {
 		this.title = title;
 		this.owner = owner;
-		this.date = eventDate;
+		this.date = new Date(eventDate);
 	}
 
 	public String getTitle() {
@@ -22,7 +22,7 @@ public class Instrument {
 	}
 
 	public String getDate() {
-		return date;
+		return date.toString();
 	}
 
 	@Override

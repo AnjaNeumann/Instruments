@@ -1,0 +1,482 @@
+{
+  "x0001": {
+    
+    "defaultSurName": "Xylander",
+    "defaultPreName": "Wilhelm",
+    "alternativeSurNames": [
+      "Holzmann",
+      "Holtzmann"
+    ],
+    "alternativePreNames": [],
+    "dates": [
+      "1532 Dez 26",
+      "",
+      "1576 Feb 10",
+      "",
+      "Augsburg",
+      "Heidelberg",
+      "1556",
+      ""
+    ],
+    "gender": [
+      "männlich"
+    ],
+    "konfession": [
+      "protestantisch"
+    ],
+    "musicalJobs": [
+      "Herausgeber"
+    ],
+    "otherJobs": [
+      "Gelehrter",
+      "Philologe",
+      "Lehrer",
+      "Mathematiker",
+      "Professor"
+    ],
+    "relation": [],
+    "historicalJobs": [],
+    "agencies": [
+      "Hochschule"
+    ],
+    "places": [
+      "Augsburg",
+      "Basel",
+      "Tübingen"
+    ],
+    "guestPlaces": [],
+    "mainPlace": "Heidelberg",
+    "ids": {
+      "VIAF": [
+        "192542283",
+        "192542458",
+        "194659346",
+        "68983030"
+      ],
+      "GND": [
+        "124331025"
+      ],
+      "ID": "x0001"
+    },
+    "image": {
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Guilehelmus_Xylander_1669.jpg",
+      "Link": "http://commons.wikimedia.org/wiki/File:Guilehelmus_Xylander_1669.jpg",
+      "Credits": "Wikimedia Commons"
+    },
+    
+    "links": [
+      [
+        "Biographien/Karrieren",
+        {
+          "Allgemeine Deutsche Biographie": [
+            {
+              "displayName": "Allgemeine Deutsche Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/sfz86358.html#adbcontent"
+              ]
+            },
+            {
+              "displayName": "Allgemeine Deutsche Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/gnd124331025.html#adbcontent"
+              ]
+            }
+          ],
+          "Augsburger Stadtlexikon": [
+            {
+              "displayName": "Augsburger Stadtlexikon (1)",
+              "target": [
+                "http://augsburger-stadtlexikon.de/?cHash=1&id=114&tx_ttnews[tt_news]=5937"
+              ]
+            }
+          ],
+          "Baierisches Musiklexikon (1811) von Felix Joseph Lipowsky": [
+            {
+              "displayName": "Baierisches Musiklexikon (1811) von Felix Joseph Lipowsky (1)",
+              "target": [
+                "http://personen.digitale-sammlungen.de/pnd/bsb00000279_00680-02.html"
+              ]
+            },
+            {
+              "displayName": "Baierisches Musiklexikon (1811) von Felix Joseph Lipowsky (1)",
+              "target": [
+                "http://personen.digitale-sammlungen.de/pnd/treffer.html?object=liste&suche=pndid:124331025+AND+(bsbID:bsb00000279)"
+              ]
+            }
+          ],
+          "Digitaler Portraitindex der Frühen Neuzeit": [
+            {
+              "displayName": "Digitaler Portraitindex der Frühen Neuzeit (37)",
+              "target": [
+                "http://www.portraitindex.de/db/apsisa.dll?action=queryGallery&action=displayGallery&index=sys_obj_pnd_no&desc=%22124331025%22"
+              ]
+            }
+          ],
+          "Gesamtkatalog deutschsprachiger Leichenpredigten": [
+            {
+              "displayName": "Gesamtkatalog deutschsprachiger Leichenpredigten (1)",
+              "target": [
+                "https://www.online.uni-marburg.de/fpmr/php/gs/xs2.php?f1=pnd&s1=124331025"
+              ]
+            }
+          ],
+          "Latin Library": [
+            {
+              "displayName": "Latin Library (1)",
+              "target": [
+                "http://thelatinlibrary.com/xylander.html"
+              ]
+            }
+          ],
+          "Musiker Profiling der Universität Leipzig": [
+            {
+              "displayName": "Musiker Profiling der Universität Leipzig (1)",
+              "target": [
+                "http://informatik.uni-leipzig.de:8080/MusikerProfiling?gnd=124331025"
+              ]
+            }
+          ],
+          "Personendatenbank der Landesbibliographie Baden-Württemberg": [
+            {
+              "displayName": "Personendatenbank der Landesbibliographie Baden-Württemberg (1)",
+              "target": [
+                "http://statistik-bw.de/LABI/PDB.asp?ID=173594"
+              ]
+            },
+            {
+              "displayName": "Personendatenbank der Landesbibliographie Baden-Württemberg (1)",
+              "target": [
+                "http://leo-bw.de/web/guest/detail/-/Detail/details/PERSON/wlbblb_personen/124331025/X"
+              ]
+            }
+          ],
+          "Post Reformation Digital Library": [
+            {
+              "displayName": "Post Reformation Digital Library (9)",
+              "target": [
+                "http://prdl.org/author_view.php?a_id=3488"
+              ]
+            }
+          ],
+          "Register zur Deutschen Biographie": [
+            {
+              "displayName": "Register zur Deutschen Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/sfz86358.html#indexcontent"
+              ]
+            },
+            {
+              "displayName": "Register zur Deutschen Biographie (1)",
+              "target": [
+                "http://www.deutsche-biographie.de/gnd124331025.html#indexcontent"
+              ]
+            }
+          ],
+          "Teuchos Zentrum für Handschriften und Textforschung": [
+            {
+              "displayName": "Teuchos Zentrum für Handschriften und Textforschung (1)",
+              "target": [
+                "http://www.teuchos.uni-hamburg.de/resolver?P-Xylander.Wilhelm"
+              ]
+            }
+          ],
+          "Virtuelles Kupferstichkabinett": [
+            {
+              "displayName": "Virtuelles Kupferstichkabinett (1)",
+              "target": [
+                "http://www.virtuelles-kupferstichkabinett.de/?reset=1&selTab=2&sKey1=pzusatz&sWord1=124331025"
+              ]
+            }
+          ],
+          "Vitae Germanorum Philosophorum (1620) von Melchior Adam": [
+            {
+              "displayName": "Vitae Germanorum Philosophorum (1620) von Melchior Adam (1)",
+              "target": [
+                "http://www.historische-kommission-muenchen-editionen.de/beacond/adam.php?pnd=124331025"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Digitalisierte Medien",
+        {
+          "Icones sive Imagines Virorum Literis Illustrium (1719) von Nicolaus Reusner und Tobias Stimmer\r\n": [
+            {
+              "displayName": "Icones sive Imagines Virorum Literis Illustrium (1719) von Nicolaus Reusner und Tobias Stimmer\r\n (1)",
+              "target": [
+                "http://www.uni-mannheim.de/mateo/camenaref/reusner/reusner1/jpg/s176.html"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Archive, Museen, Sammlungen, Nachlässe",
+        {
+          "Kalliope Verbundkatalog für Nachlässe und Autographen": [
+            {
+              "displayName": "Kalliope Verbundkatalog für Nachlässe und Autographen (1)",
+              "target": [
+                "http://kalliope.staatsbibliothek-berlin.de/de/query?q=ead.authfilenumber%3D124331025"
+              ]
+            },
+            {
+              "displayName": "Kalliope Verbundkatalog für Nachlässe und Autographen (1)",
+              "target": [
+                "http://kalliope.staatsbibliothek-berlin.de/de/query?q=ead.authfilenumber%3D95010"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliographien",
+        {
+          "Jahresberichte für deutsche Geschichte": [
+            {
+              "displayName": "Jahresberichte für deutsche Geschichte (1)",
+              "target": [
+                "http://jdgdb.bbaw.de/cgi-bin/jdg?t_idn=gnd:124331025"
+              ]
+            }
+          ],
+          "Music Sack": [
+            {
+              "displayName": "Music Sack (1)",
+              "target": [
+                "http://musicsack.com/PersonFMTDetail.cfm?PersonPK=100075097",
+                "http://musicsack.com/PersonFMTDetail.cfm?PersonPK=100082475"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Bibliothekskataloge",
+        {
+          "Bayerische Staatsbibliothek": [
+            {
+              "displayName": "Bayerische Staatsbibliothek (99)",
+              "target": [
+                "http://opacplus.bsb-muenchen.de/search?View=bsb&pnd=124331025"
+              ]
+            }
+          ],
+          "Bibliotheksverbund Bayern Berlin Brandenburg": [
+            {
+              "displayName": "Bibliotheksverbund Bayern Berlin Brandenburg (176)",
+              "target": [
+                "http://gateway-bayern.de/opensearch?rfr_id=LinkedOpenData:Beacon&rft_id=info:pnd/124331025"
+              ]
+            }
+          ],
+          "Deutsche Digitale Bibliothek": [
+            {
+              "displayName": "Deutsche Digitale Bibliothek (1)",
+              "target": [
+                "http://www.ddb.de/entity/124331025"
+              ]
+            }
+          ],
+          "Deutsche Nationalbibliothek": [
+            {
+              "displayName": "Deutsche Nationalbibliothek (2)",
+              "target": [
+                "http://dispatch.opac.d-nb.de/DB=4.1/PPN=124331025/REL"
+              ]
+            }
+          ],
+          "Französische Nationalbibliothek": [
+            {
+              "displayName": "Französische Nationalbibliothek (1)",
+              "target": [
+                "http://catalogue.bnf.fr/rechercher.do?index=TOUS3&numNotice=12237778"
+              ]
+            }
+          ],
+          "Gemeinsamer Bibliotheksverbund": [
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (507)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/PPN=85791032/REL"
+              ]
+            },
+            {
+              "displayName": "Gemeinsamer Bibliotheksverbund (507)",
+              "target": [
+                "http://gso.gbv.de/DB=2.1/ACT=SRCHA/IKT=8549/TRM=124331025/CMD"
+              ]
+            }
+          ],
+          "Hessischer Bibliotheksverbund": [
+            {
+              "displayName": "Hessischer Bibliotheksverbund (62)",
+              "target": [
+                "http://orsprod.rz.uni-frankfurt.de/DB=2.1/PPN=136141420/REL"
+              ]
+            },
+            {
+              "displayName": "Hessischer Bibliotheksverbund (62)",
+              "target": [
+                "http://resolver.hebis.de/wikimedia/pndresolver/124331025"
+              ]
+            }
+          ],
+          "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen": [
+            {
+              "displayName": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (215)",
+              "target": [
+                "http://okeanos-www.hbz-nrw.de/F?func=find-a&local_base=HBZ01&find_code=PGI&request=(DE-588)124331025"
+              ]
+            }
+          ],
+          "Kunstbibliotheken Fachverbundkatalog": [
+            {
+              "displayName": "Kunstbibliotheken Fachverbundkatalog (2)",
+              "target": [
+                "http://aleph.mpg.de/F?func=find-b&local_base=KUB01&find_code=IGD&request=124331025"
+              ]
+            }
+          ],
+          "National Library of Australia": [
+            {
+              "displayName": "National Library of Australia (36)",
+              "target": [
+                "http://trove.nla.gov.au/people/382753"
+              ]
+            }
+          ],
+          "Südwestdeutscher Bibliotheksverbund": [
+            {
+              "displayName": "Südwestdeutscher Bibliotheksverbund (121)",
+              "target": [
+                "http://swb.bsz-bw.de/DB=2.1/PPN=165280018/REL"
+              ]
+            },
+            {
+              "displayName": "Südwestdeutscher Bibliotheksverbund (121)",
+              "target": [
+                "http://swb.bsz-bw.de/DB=2.1/ACT=SRCHA/IKT=2011/REC=2/TRM=124331025/CMD"
+              ]
+            }
+          ],
+          "Universitätsbibliothek Heidelberg": [
+            {
+              "displayName": "Universitätsbibliothek Heidelberg (38)",
+              "target": [
+                "http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?query=AU:124331025"
+              ]
+            }
+          ],
+          "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 16. Jahrhunderts": [
+            {
+              "displayName": "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 16. Jahrhunderts (82)",
+              "target": [
+                "http://gateway-bayern.de/opensearch?rfr_id=LinkedOpenData:Beacon&rft_id=info:pnd/124331025&res_id=VD16"
+              ]
+            }
+          ],
+          "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts": [
+            {
+              "displayName": "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (27)",
+              "target": [
+                "http://gso.gbv.de/DB=1.28/ACT=SRCHA/IKT=8549/TRM=124331025/CMD"
+              ]
+            }
+          ],
+          "Virtuelle Fachbibliothek Musikwissenschaft": [
+            {
+              "displayName": "Virtuelle Fachbibliothek Musikwissenschaft (2)",
+              "target": [
+                "http://vifamusik.de/search?View=mus&q=124331025"
+              ]
+            }
+          ],
+          "Österreichischer Bibliothekenverbund": [
+            {
+              "displayName": "Österreichischer Bibliothekenverbund (31)",
+              "target": [
+                "http://search.obvsg.at/primo_library/libweb/action/dlSearch.do?vid=ACC&institution=ACC&onCampus=false&lang=ger&loc=local,scope:(ACC_aleph)&query=any,contains,(DE-588)124331025"
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        "Nachweise/Topographien",
+        {
+          "Wikipedia": [
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Guilielmus_Xylander"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://de.wikipedia.org/wiki/Guilielmus_Xylander"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://wikidata.org/wiki/Special:GoToLinkedPage?site=dewiki&itemid=Q67101"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/persondata/redirect/gnd/de/124331025"
+              ]
+            },
+            {
+              "displayName": "Wikipedia (1)",
+              "target": [
+                "http://tools.wmflabs.org/wikidata-todo/resolver.php?project=dewiki&quick=GND%3A124331025"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "mapPlaces": [
+      [
+        "Heidelberg",
+        "49.398752",
+        "8.672434",
+        "9."
+      ],
+      [
+        "Heidelberg",
+        "49.398752",
+        "8.672434",
+        "3.1."
+      ],
+      [
+        "Augsburg",
+        "48.370545",
+        "10.89779",
+        "3."
+      ],
+      [
+        "Basel",
+        "47.559599",
+        "7.588576",
+        "3."
+      ],
+      [
+        "Tübingen",
+        "48.521636",
+        "9.057645",
+        "3."
+      ],
+      [
+        "Augsburg",
+        "48.370545",
+        "10.89779",
+        "1."
+      ]
+    ] }
+}
