@@ -84,6 +84,7 @@ public class InstrumentMaker {
 
 			for (Instrument instrument : instruments) {
 				String[] coords = locations.get(instrument.getOwner());
+
 				String towrite = "{\"name\":\"" + instrument.getTitle() + "\", \"place\":\"" + instrument.getOwner()
 						+ "\", \"time\":\"" + instrument.getDate() + "\", \"lon\":" + coords[1] + ", \"lat\":"
 						+ coords[0] + ", \"description\":\"description\"," + "\"tableContent\":{\"surname\":\""

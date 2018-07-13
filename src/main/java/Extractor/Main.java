@@ -36,6 +36,7 @@ public class Main extends Application implements MapComponentInitializedListener
 	private static LinkedList<Marker> marker = new LinkedList<>();
 
 	public static void main(String[] args) throws Exception {
+		System.out.println("read files...");
 		CSVReader cr = new CSVReader();
 		cr.readFile("Orte.csv");
 		locations = cr.getLocations();
@@ -45,9 +46,10 @@ public class Main extends Application implements MapComponentInitializedListener
 			jr.parse("Personen/" + letter + ".json");
 		}
 		makerList = jr.getMakers();
-		//
-		// writeHeader("InstrumentData");
 
+		writeHeader("InstrumentData");
+
+		System.out.println("get instrument data and write files...");
 		for (InstrumentMaker im : makerList) {
 			String ws = im.getWebsite();
 
@@ -55,14 +57,10 @@ public class Main extends Application implements MapComponentInitializedListener
 			ip.setParams();
 			String post = ip.getPost(
 					"http://www.mimo-db.eu/MIMO/infodoc/ged/DocumentManagementService.svc/SearchDocumentLinks");
-			// System.out.println(post);
 			JSONParser parser = new JSONParser();
 			JSONObject result = (JSONObject) parser.parse(post);
 			JSONArray results = (JSONArray) ((JSONObject) result.get("d")).get("Results");
-			// System.out.println(results.size());
-			// if (results.size() == 0) {
-			// System.out.println(ws);
-			// }
+
 			for (Object data : results) {
 				JSONObject infos = (JSONObject) data;
 				JSONObject props = (JSONObject) infos.get("Properties");
@@ -71,9 +69,8 @@ public class Main extends Application implements MapComponentInitializedListener
 				String date = props.get("eventDate").toString().trim();
 				Instrument instrument = new Instrument(title, owner, date);
 				im.addInstrument(instrument);
-				// System.out.println(title + ", " + owner + ", " + date);
 			}
-			// im.write2File("InstrumentData");
+			im.write2File("InstrumentData");
 			im.write2JSONFile("instrumentJSONdata", locations);
 			/*
 			 * String option = im.getSurName() + ", " + im.getPreName();

@@ -22,12 +22,14 @@ public class JSONReader {
 	public void parse(String filename) throws FileNotFoundException, IOException, ParseException {
 
 		JSONObject jObj = (JSONObject) parser.parse(new FileReader(filename));
-		// JSONObject jObj = (JSONObject) obj;
 		for (Object key : jObj.keySet()) {
 			JSONObject inner = (JSONObject) jObj.get(key);
 			String jobs = inner.get("musicalJobs").toString();
-			if (jobs.toLowerCase().contains("instrumentenbauer")) {
+
+			if (jobs.contains("bauer") || jobs.contains("macher") || jobs.contains("hersteller")
+					|| jobs.toLowerCase().contains("glockengießer")) {
 				if (inner.toString().contains("Musical Instrument Museums Online")) {
+					// System.out.println("-> MIMO");
 					InstrumentMaker current = getInstrumentMaker(inner, key.toString());
 					JSONArray links = (JSONArray) inner.get("links");
 					String website = getWebsite(links);
